@@ -76,18 +76,18 @@ declare module 'styled-components' {
       hero: string;
       xhero: string;
       xxhero: string;
-      frameSizes: {
-        xxsmall: string;
-        xsmall: string;
-        small: string;
-        smallMedium: string;
-        medium: string;
-        largeMedium: string;
-        large: string;
-        xlarge: string;
-        xxlarge: string;
-        max: string;
-      };
+    };
+    frameSizes: {
+      xxsmall: string;
+      xsmall: string;
+      small: string;
+      smallMedium: string;
+      medium: string;
+      largeMedium: string;
+      large: string;
+      xlarge: string;
+      xxlarge: string;
+      max: string;
     };
     transitions: {
       fastest: string;
